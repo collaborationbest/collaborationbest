@@ -2,7 +2,7 @@
   <h2>Web Developer & Project Manager</h2>
 </div>
 
-<h4>I am a skilled Web Developer with strong experience in JavaScript frameworks and TypeScript, as well as expertise in PHP, WordPress, and related technologies. 
+<h4>I am a skilled Web Developer with strong experience in JavaScript/TypeScript and its frameworks, as well as expertise in PHP, WordPress, and related technologies. 
 I have a solid background in building modern, user-friendly web applications and dynamic websites tailored to client needs.</h4>
 
 <h4>My development experience covers both frontend and backend, including technologies such as React, Next.js, Angular.js, Vue.js, Svelte.js, Node.js, Nest.js, ASP.NET, Python and integrations with popular content management systems like WordPress, Shopify.
