@@ -79,7 +79,7 @@ I am dedicated to delivering high-quality, maintainable, and scalable solutions 
   </td>
   <td align="center" width="90">
     <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="Tailwind CSS">
-    <br>Tailwind CSS
+    <br>Tailwind
   </td>
   <td align="center" width="90">
     <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="Bootstrap">
