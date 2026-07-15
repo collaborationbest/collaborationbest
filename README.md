@@ -98,7 +98,7 @@ I am dedicated to delivering high-quality, maintainable, and scalable solutions 
     <br>WordPress
   </td>
 </tr>
-<tr>
+<tr align="center">
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" />
       <br>MySQL
