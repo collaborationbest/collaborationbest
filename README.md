@@ -118,7 +118,7 @@ I am dedicated to delivering high-quality, maintainable, and scalable solutions 
 <br/>
 
 <p align="center">
-     <img width="98%" src="./shooter/shooter.gif"/>
+     <img width="98%" src="https://github.com/collaborationbest/collaborationbest/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 
