@@ -123,7 +123,6 @@ I am dedicated to delivering high-quality, maintainable, and scalable solutions 
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/collaborationbest/collaborationbest/blob/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://github.com/collaborationbest/collaborationbest/blob/output/github-contribution-grid-snake.svg">
 </picture>
-     <img width="98%" src="https://github.com/collaborationbest/collaborationbest/blob/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 
