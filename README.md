@@ -11,19 +11,19 @@
 
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=cursor" width="45" height="45" alt="Cursor" />
+      <img src="./icons/cursor-icon.svg" width="45" height="45" alt="Cursor" />
       <br>Cursor
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=claude" width="45" height="45" alt="Claude" />
+      <img src="./icons/claude-icon.svg" width="45" height="45" alt="Claude" />
       <br>Claude
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=chatgpt" width="45" height="45" alt="ChatGPT" />
+      <img src="./icons/chatgpt-icon.svg" width="45" height="45" alt="ChatGPT" />
       <br>ChatGPT
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=lovable" width="45" height="45" alt="Lovable" />
+      <img src="./icons/lovable-icon.svg" width="45" height="45" alt="Lovable" />
       <br>Lovable
     </td>
     <td align="center" width="90">
