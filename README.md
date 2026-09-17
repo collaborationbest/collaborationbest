@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Web Developer & Project Manager</h2>
+  <h2>AI Prompt Engineer & Project Manager(Full-Stack)</h2>
 </div>
 
 <h4>AI Prompt Engineer & Full-Stack Developer with 5+ years of experience building and scaling high-traffic web applications for fintech and enterprise environments. Experienced in designing, engineering, and optimizing AI prompts and LLM-powered workflows, alongside strong expertise in JavaScript, React, Node.js, PHP, cloud platforms (AWS/Azure), and microservices architecture. Skilled at integrating AI capabilities into production applications to deliver reliable, scalable, and user-focused solutions.</h4>
@@ -11,19 +11,19 @@
 
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=cursor" width="45" height="45" alt="Cursor" />
+      <img src="./icons/cursor-icon.svg" width="45" height="45" alt="Cursor" />
       <br>Cursor
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=claude" width="45" height="45" alt="Claude" />
+      <img src="./icons/claude-icon.svg" width="45" height="45" alt="Claude" />
       <br>Claude
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=chatgpt" width="45" height="45" alt="ChatGPT" />
+      <img src="./icons/chatgpt-icon.svg" width="45" height="45" alt="ChatGPT" />
       <br>ChatGPT
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=lovable" width="45" height="45" alt="Lovable" />
+      <img src="./icons/lovable-icon.svg" width="45" height="45" alt="Lovable" />
       <br>Lovable
     </td>
     <td align="center" width="90">
@@ -119,6 +119,18 @@
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
       <br>MongoDB
+    </td>
+    <td align="center" width="90">
+      <img src="./icons/clickup-icon.svg" width="45" height="45" alt="ClickUp" />
+      <br>ClickUp
+    </td>
+    <td align="center" width="90">
+      <img src="./icons/jira-icon.svg" width="45" height="45" alt="Jira" />
+      <br>Jira
+    </td>
+    <td align="center" width="90">
+      <img src="./icons/trello-icon.svg" width="45" height="45" alt="Trello" />
+      <br>Trello
     </td>
   </tr>
 
